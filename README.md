@@ -10,3 +10,7 @@ This is an in progress list to include awesome chinese consumers products you co
 
 
 
+
+
+### [Wander China Planner](https://github.com/daligao/wander-china)
+Free drag-and-drop itinerary builder for 31 Chinese cities. Verified opening hours, ticket prices, metro routes and budget calculator. No Chinese language skills needed. ([Live demo](https://ordinarymantrying.com/tools/wander-china/planner.html))
