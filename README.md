@@ -3,6 +3,9 @@ I don't have any affiliation with any recommendations mentioned in this list. Al
 I strive to make all information be valid and up to date, however, I am not responsible for any issues that are caused by these information.
 
 ### [Essential China Travel Checklist 2024](https://witheases-organization.gitbook.io/mainland-china-travel-guide)
+
+### [China Travel Check](https://gochina.taoliapp.com/)
+Practical English field manual for independent China travel, including 240-hour visa-free transit guides and tools.
 This is a pratical and comprehensive checklist to help prepare your short-term/long-term travel, including 144 HRs visa free, to mainland China. Raise questions in [Issues Tab](https://github.com/HaoyuanY/Awesome-China-Travel/issues), or emails to travelchinawithease@gmail.com.
 
 ### [Awesome Chinese Products](https://witheases-organization.gitbook.io/mainland-china-travel-guide/awesome-chinese-products)
